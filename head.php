@@ -2,7 +2,7 @@
 
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<title>Á¦¸ñ ¾øÀ½</title>
+<title></title>
 <meta name="generator" content="Namo WebEditor(Trial)">
 </head>
 
