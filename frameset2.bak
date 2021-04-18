@@ -1,0 +1,42 @@
+<html>
+
+<head>
+<style>
+A:link {COLOR: black; TEXT-DECORATION: none} 
+A:visited {COLOR: "#4F81BD"; TEXT-DECORATION: none} 
+A:hover {COLOR: #00B050; TEXT-DECORATION: none } 
+</style>
+<meta http-equiv="content-type" content="text/html; charset=euc-kr">
+<title>채식, 그 시작</title>
+<meta name="generator" content="Namo WebEditor(Trial)">
+<bgsound src="Podington_Bear_-_Starling.mp3" loop="infinite">
+</head>
+
+<body bgcolor="white" text="black" link="#4F81BD" vlink="#FFC000" alink="#00B050">
+<div id="layer2" style="width:62px; height:19px; position:absolute; left:1003px; top:19px; z-index:1;">
+    <p><font color="#4F81BD"><b><a href="content.htm" target="detail">●</a> </b></font><b><font color="#FFC000"><a href="introduce.htm" target="detail">▲</a> </font></b><font color="#00B050"><b><a href="music%20info_self.htm" target="_new">♬</a></b></font></p>
+</div>
+<p align="center"><a href="../../Desktop/채식 그 시작/home2.htm" target="detail"><object classid="clsid:22D6F312-B0F6-11D0-94AB-0080C74C7E95" codebase="http://activex.microsoft.com/activex/controls/mplayer/en/nsmp2inf.cab#Version=6,4,5,715" width="0" height="0">
+<param name="FileName" value="Podington_Bear_-_Starling.mp3">
+<param name="AutoStart" value="true">
+<param name="ShowTracker" value="false">
+<param name="ShowControls" value="false">
+<param name="ShowGotoBar" value="false">
+<param name="ShowDisplay" value="false">
+<param name="ShowStatusBar" value="false">
+<param name="AutoSize" value="false">
+<param name="PlayCount" value="0">
+<embed width="1" height="1" src="Podington_Bear_-_Starling.mp3" AutoStart="true" ShowTracker="false" ShowControls="false" ShowGotoBar="false" ShowDisplay="false" ShowStatusBar="false" AutoSize="false" PlayCount="0" pluginspage="http://www.microsoft.com/windows/windowsmedia/download/"></object></a><a href="guest.htm" target="detail"><img src="title.jpg" width="204" height="130" border="0" alt="home"></a></p>
+<div id="layer1" style="width:437px; height:49px; position:absolute; left:361px; top:151px; z-index:1;">
+    <p><img src="logo1.gif" width="104" height="47" border="0" usemap="#ImageMap1"><img src="logo-2.jpg" width="81" height="47" border="0" usemap="#ImageMap2"><img src="logo-3.jpg" width="63" height="47" border="0" usemap="#ImageMap3"><a href="frame4.htm" target="detail"><img src="logo-4.jpg" width="45" height="47" border="0"></a><a href="noname2.htm" target="detail"><img src="logo-5.jpg" width="89" height="47" border="0"></a></p>
+</div>
+<p align="center">&nbsp;</p>
+<map name="ImageMap1">
+<area shape="rect" coords="23, 6, 102, 36" href="frame1.htm" target="detail">
+</map><map name="ImageMap2">
+<area shape="rect" coords="5, 3, 80, 38" href="frame2.htm" target="detail">
+</map><map name="ImageMap3">
+<area shape="rect" coords="8, 7, 62, 31" href="frame3.htm" target="detail">
+</map></body>
+
+</html>

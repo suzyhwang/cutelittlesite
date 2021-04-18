@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta name="GENERATOR" content="Namo WebEditor(Trial)">
+<meta http-equiv="content-type" content="text/html; charset=euc-kr">
+<title>채식, 그 시작</title>
+</head>
+<frameset rows="1*" cols="9%, 82%, 9%" border="4">
+<frame name="contents" scrolling="auto" marginwidth="10" marginheight="14" namo_target_frame="detail" src="frameset1.htm">
+    <frameset rows="33%, 67%">
+        <frame src="frameset2.htm" scrolling="no">
+        <frameset cols="1%, 99%">
+            <frame src="first.htm">
+<frame name="detail" scrolling="yes" marginwidth="10" marginheight="14" src="guest.htm" namo_target_frame="detail">
+        </frameset>
+    </frameset>
+    <frame src="frameset1.htm">
+<noframes>
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#800080" alink="#FF0000">
+
+<p>To view this page correctly, you need a Web browser that supports frames.</p>
+</body>
+</noframes>
+</frameset>
+</html> 
