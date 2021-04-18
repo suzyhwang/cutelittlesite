@@ -1,8 +1,8 @@
 <html>
 
 <head>
-<meta http-equiv="content-type" content="text/html; charset=euc-kr">
-<title>제목 없음</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>횁짝쨍챰 쩐첩��쩍</title>
 <meta name="generator" content="Namo WebEditor(Trial)">
 </head>
 
